@@ -1,0 +1,15 @@
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC);
+@import url(https://fonts.googleapis.com/css?family=Bungee);
+
+
+p {
+  font-family: 'Bungee';
+  color: white;
+  text-align: center;
+}
+
+html {
+ background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20200310/pngtree-gold-luxury-invitation-seamless-pattern-background-image_330659.jpg");
+text-align: center;
+}
+}
